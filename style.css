@@ -5,6 +5,7 @@ body {
     background-repeat: no-repeat;
     font-family: sans-serif;
     background-size: 100%;
+    background-colour: red;
 }
 .toggle {
     position: fixed;
