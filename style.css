@@ -4,7 +4,7 @@ body {
     background: url(./image/FB_IMG_16347467640439220.jpg);
     background-repeat: no-repeat;
     font-family: sans-serif;
-    background-size: cover;
+    background-size: contain;
 }
 .toggle {
     position: fixed;
